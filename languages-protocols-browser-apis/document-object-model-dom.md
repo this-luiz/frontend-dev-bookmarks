@@ -14,7 +14,7 @@ The DOM is a programming interface for HTML, XML and SVG documents. It defines m
 -----------------------------------------
 
 + **Document Events**: DOM event model is a generic event system and a set of standard modules of events for user interface control and document mutation notifications
-    + **[An Introduction To DOM Events](https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/)**: Wilson Page introduces the basics of working with DOM events, then delves into their inner workings, explaining how we can make use of them to solve common problems.
+    + ~~**[An Introduction To DOM Events](https://www.smashingmagazine.com/2013/11/an-introduction-to-dom-events/)**: Wilson Page introduces the basics of working with DOM events, then delves into their inner workings, explaining how we can make use of them to solve common problems.~~
     + **[DOM Level 2 Event Model](https://www.w3.org/TR/DOM-Level-2-Events/events.html)**: W3C specification section for DOM Level 2 Events.
     + **[Gator](https://craig.is/riding/gators)**: Gator is a small (~0.8 kb minified + gzipped), simple, standalone, event delegation library.
 + **Overview**: High level guides, articles and documents about DOM.
