@@ -21,7 +21,7 @@ The DOM is a programming interface for HTML, XML and SVG documents. It defines m
     + **[DOM Features You Didn’t Know Existed](http://www.impressivewebs.com/dom-features-you-didnt-know-existed-video-slides/)**: Louis Lazaris talks about DOM Features you probably don't know.
     + **[DOM Reference at the MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)**: Complete reference of the DOM provided by the Mozilla Development Network.
     + **[Document Object Model (DOM) Technical Reports](https://www.w3.org/DOM/DOMTR)**: Specifications by the W3C.
-    + **[Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)**: This section provides a brief conceptual introduction to the DOM: what it is, how it provides structure for HTML and XML documents, how you can access it, and how this API presents the reference information and examples.
+    + ~~**[Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)**: This section provides a brief conceptual introduction to the DOM: what it is, how it provides structure for HTML and XML documents, how you can access it, and how this API presents the reference information and examples.~~
 
 
 ------------------
